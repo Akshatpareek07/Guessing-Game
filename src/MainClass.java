@@ -14,7 +14,7 @@ class Guesser
 		return guessNum;	
 		
 	}	
-
+//Cemmant
 }
 class Player
 {
